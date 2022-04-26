@@ -36,14 +36,14 @@ My name is Hernán</h3></br>
 
 ```javascript
 const HernanWeb = {
-  name: Hernán Quillay C.,
+  name: Hernán Quillay C,
   code: [HTML, CSS, JavaScript],
-  techCommunities: {
-                        student: "Platzi",
-                        speaker: "Koonectic",
-                        writter: "HernánWeb"
+  techBio: {
+                        student     : "Tech",
+                        entrepreneur: "Koonectic",
+                        writter     : "HernánWeb"
                       },
- challenge: "Never Stop Learning"
+ challenge: "Democratize technology adoption"
 }
 ```
 
