@@ -10,7 +10,7 @@ My name is Hernán</h3></br>
 ▶ Web developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330581.png" width="13"/></br>
 ▶ Fan of the best soccer team  <img src="https://emojis.slackmojis.com/emojis/images/1631209219/49330/clubdeportivocuenca.png?1631209219" width="13"/> (Deportivo Cuenca)</br>
 ▶ Tech Writter <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="13"/></br>
-▶ Cripto-Lover <img src="https://emojis.slackmojis.com/emojis/images/1617168132/26374/bitcoin_party.gif?1617168132" width="13"/></br>
+▶ Cripto <img src="https://emojis.slackmojis.com/emojis/images/1617168132/26374/bitcoin_party.gif?1617168132" width="13"/></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernanweb&theme=dark&show_icons=true)
 
@@ -37,7 +37,7 @@ My name is Hernán</h3></br>
 ```javascript
 const HernanWeb = {
   name: Hernán Quillay C,
-  code: [HTML, CSS, JavaScript],
+  code: [HTML5, CSS3, JavaScript, React, Next.js],
   techBio: {
                         student     : "Tech",
                         entrepreneur: "Koonectic",
